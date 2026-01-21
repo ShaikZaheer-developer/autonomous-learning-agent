@@ -52,7 +52,7 @@ It is designed as a **full-stack project** with backend AI logic and frontend in
 
 Here’s a preview of the agent in action:
 
-![Agent Demo GIF](https://share.zight.com/X6uyjjzD)  
+![Agent Demo GIF]<iframe src="https://share.zight.com/X6uyjjzD?embed=true&amp;title=true&amp;branding=true" width="360" height="270" style="border:none" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowtransparency="true" allowfullscreen="true"></iframe>
 
 ---
 
@@ -102,5 +102,6 @@ python app.py
 4.Open your browser:
 
 http://localhost:10000
+
 
 
