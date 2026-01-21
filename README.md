@@ -1,6 +1,5 @@
-# autonomous-learning-agent
-Autonomous AI agent using reinforcement learning
 # Autonomous Learning Agent 🤖
+Autonomous AI agent using reinforcement learning
 
 > A fully interactive AI agent that autonomously learns, navigates, and adapts in a dynamic environment.  
 > Built with Python, Flask, and frontend visualization for real-time interaction.
@@ -53,7 +52,7 @@ It is designed as a **full-stack project** with backend AI logic and frontend in
 
 Here’s a preview of the agent in action:
 
-![Agent Demo GIF](link-to-your-gif-if-any)  
+![Agent Demo GIF](https://share.zight.com/X6uyjjzD)  
 
 ---
 
@@ -103,4 +102,5 @@ python app.py
 4.Open your browser:
 
 http://localhost:10000
+
 
